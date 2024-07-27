@@ -1,2 +1,3 @@
 # Working-with-Django-ORM
-3 parts of the code
+3 - parts of the code
+yupiiiiii!!!
